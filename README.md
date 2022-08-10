@@ -1,7 +1,7 @@
 # Multi-Location-Transhippment-Problem
 
 ## Introduction
-This project build three models: All-in-One Model, Stochastic Approximation Model (Stochastic "Gradient Descent"), and Stochastic Decomposition Model to solve a multi-location problem, a stochastic optimization problem. 
+This project built three models: All-in-One Model, Stochastic Approximation Model (Stochastic "Gradient Descent"), and Stochastic Decomposition Model to solve a multi-location problem, a stochastic optimization problem. 
 
 
 ## File
